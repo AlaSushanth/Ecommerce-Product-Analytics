@@ -417,4 +417,4 @@ Customer lifetime value analysis
 Customer journey analysis
 Predictive conversion modelling
 Real-world A/B test analysis
-Recommendation system analysi
+Recommendation system analysis
