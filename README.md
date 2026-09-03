@@ -1,5 +1,6 @@
 E-Commerce Product Analytics & Conversion Optimization
-  ![Power BI Dashboard](ExecutiveOverview.png)
+  ![Power BI Dashboard](Executive Overview.png)
+
 📌 Project Overview
 
 This project performs an end-to-end analysis of user behaviour on an e-commerce platform to understand how users move through the product journey and identify opportunities to improve conversion.
