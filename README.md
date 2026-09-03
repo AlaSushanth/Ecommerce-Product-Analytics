@@ -1,5 +1,7 @@
 E-Commerce Product Analytics & Conversion Optimization
-  ![Power BI Dashboard](Executive Overview.png)
+
+ ![E-Commerce Dashboard](dashboard.png)
+
 
 📌 Project Overview
 
@@ -20,12 +22,19 @@ An e-commerce platform receives a large number of product views, but only a smal
 The objective of this project is to identify potential friction points in the user journey and answer the following questions:
 
 Where do users drop off in the conversion funnel?
+
 How many users view products, add products to the cart, and complete purchases?
+
 What is the overall conversion rate?
+
 What percentage of users abandon their carts?
+
 What different types of user behaviour exist on the platform?
+
 Which products have strong performance and which have potential for improvement?
+
 At what times are users most likely to make purchases?
+
 What product improvements could potentially improve conversion?
 📊 Dataset
 
@@ -34,32 +43,49 @@ This project uses the RetailRocket E-Commerce Events Dataset.
 The dataset contains user interaction events on an e-commerce platform, including:
 
 Product Views
+
 Add-to-Cart Events
+
 Transactions
 
 The key columns used in the analysis are:
 
 Column	Description
+
 timestamp	Time at which the event occurred
+
 visitorid	Unique identifier for a user
 event	Type of user interaction
+
 itemid	Unique product identifier
+
 transactionid	Transaction identifier for purchase events
+
 Note
 
 The raw dataset is not included in this repository because of its large file size.
 
 🛠️ Tools & Technologies
 Tool	Purpose
+
 Python	Data cleaning, analysis and experimentation
+
 Pandas	Data manipulation
+
 NumPy	Numerical analysis
+
 Matplotlib	Data visualization
+
 Seaborn	Exploratory data visualization
+
 SQL	Product and business analysis
+
 Statistical Testing	Hypothesis testing and A/B test analysis
+
 Power BI	Interactive product analytics dashboard
+
 🔍 Analysis Performed
+
 1. Exploratory Data Analysis
 
 The dataset was initially explored to understand its structure and data quality.
@@ -420,3 +446,7 @@ Customer journey analysis
 Predictive conversion modelling
 Real-world A/B test analysis
 Recommendation system analysis
+
+## Author
+
+Sushanth Kumar Reddy
